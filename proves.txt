@@ -1,1 +1,4 @@
 Fes una modificació al fitxer i torna a pujar-lo al repositori Github.
+Crear una nova branca “branch1” per a treballar sobre aquesta.
+Modificar el fitxer, i de nou fes commit i push.
+
