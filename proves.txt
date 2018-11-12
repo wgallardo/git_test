@@ -1,1 +1,3 @@
 Fes una modificació al fitxer i torna a pujar-lo al repositori Github.
+Torna a la branca original “master” i modifica també el fitxer, fes commit i push.
+
